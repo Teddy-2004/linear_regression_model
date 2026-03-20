@@ -1,1 +1,1 @@
-# Mobile_regression_analysis
+In this project, the ultimate cost of World Bank infrastructure undertakings in Africa is forecasted based on financial, geographic and industry related characteristics. The objective is to find trends that affect the cost changes and enhance the accuracy of budgeting. Using regression equations, the system can forecast the cost of the project using previous data. This assists in making superior planning and decision-making in regard to infrastructure development.
