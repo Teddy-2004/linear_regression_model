@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime generated file only
+summative/API/new_data_buffer.csv
+
+# Flutter build output
+summative/FlutterApp/build/
+summative/FlutterApp/.dart_tool/
+summative/FlutterApp/.flutter-plugins
+summative/FlutterApp/.flutter-plugins-dependencies
+summative/FlutterApp/android/.gradle/
+summative/FlutterApp/android/local.properties
