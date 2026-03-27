@@ -9,7 +9,7 @@ This project develops a machine learning solution to help African governments de
 https://wb-africa-cost.onrender.com/docs
 
 ## 🎥 Video Demo
-[Insert YouTube link after recording]
+https://youtu.be/G5al_uGGkik 
 
 ## 🤖 Model Results
 | Model | MSE | RMSE | R² |
